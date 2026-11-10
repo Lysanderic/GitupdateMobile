@@ -1,0 +1,17 @@
+# build output
+out/
+*.apk
+*.keystore
+*.jks
+
+# fetched dependencies
+sdk/
+libs/*.jar
+libs/*.aar
+
+# scratch
+imgtest/
+*.log
+
+# extracted third-party classes
+libs/x/
